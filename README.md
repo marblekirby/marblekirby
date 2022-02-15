@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=marblekirby&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true">
+</p>
+
 <!--
 **marblekirby/marblekirby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Last Edited on: 30/08/2020
