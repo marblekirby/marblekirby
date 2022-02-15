@@ -1,22 +1,25 @@
 ### Hi there 👋
 
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=marblekirby&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true">
-</p>
+### ⚙️ &nbsp;Public GitHub Analytics (with private commits)
 
-<!--
-**marblekirby/marblekirby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Chcek out <a href="https://mps-data.co.uk">MPS data</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- - 😄 Pronouns: ...
+ - ⚡ Fun fact: ...
 -->
 
-Last Edited on: 30/08/2020
+<p align="center">
+<a href="https://github.com/marblekirby">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marblekirby&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+ <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marblekirby&layout=compact&langs_count=8&theme=algolia&count_private=true"/> -->
+  
+  <p align="center">
+  <a href="https://www.danielloudon.blog"><img src="https://img.shields.io/badge/-danielloudon.blog-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/daniel-l-665b91131"><img src="https://img.shields.io/badge/-Daniel%20Loudon-0077B5?style=flat&logo=Linkedin&logoColor=white"/></>
+  </p>
+  </a>
+</p>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+Last Edited on: 15/02/2022
