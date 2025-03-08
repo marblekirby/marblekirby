@@ -2,7 +2,7 @@
 
 ### ⚙️ &nbsp;Public GitHub Analytics (with private commits)
 
-Chcek out <a href="https://mps-data.co.uk">MPS data</a>
+Chcek out <a href="https://taka.io">Taka</a>
 
 <!-- - 😄 Pronouns: ...
  - ⚡ Fun fact: ...
